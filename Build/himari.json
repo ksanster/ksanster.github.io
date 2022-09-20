@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Himary",
+"companyName": "sws",
+"productName": "Himari",
 "productVersion": "0.1",
 "dataUrl": "himari.data.unityweb",
 "wasmCodeUrl": "himari.wasm.code.unityweb",
