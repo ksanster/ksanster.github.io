@@ -1,0 +1,59 @@
+{
+  "main": {
+    "path": "assets",
+    "files": [
+      {
+        "type": "image",
+        "key": "background",
+        "url": "images/background.jpg"
+      },
+      {
+        "type": "image",
+        "key": "koi_body",
+        "url": "images/koi_body.png"
+      },
+      {
+        "type": "image",
+        "key": "koi_tail0",
+        "url": "images/koi_tail0.png"
+      },
+      {
+        "type": "image",
+        "key": "koi_tail1",
+        "url": "images/koi_tail1.png"
+      },
+      {
+        "type": "image",
+        "key": "koi_fin_left",
+        "url": "images/koi_fin_left.png"
+      },
+      {
+        "type": "image",
+        "key": "koi_fin_right",
+        "url": "images/koi_fin_right1.png"
+      },
+      {
+        "type": "image",
+        "key": "aura",
+        "url": "images/aura.png"
+      },
+      {
+        "type": "image",
+        "key": "trail",
+        "url": "images/trail.png"
+      },
+      {
+        "type": "bitmapFont",
+        "key": "demi_bold_24px",
+        "textureURL": "bitmap/demi_bold_24px_shadow.png",
+        "fontDataURL": "bitmap/demi_bold_24px_shadow.xml"
+      },
+      {
+        "type": "bitmapFont",
+        "key": "bold_26px",
+        "textureURL": "bitmap/bold_26px.png",
+        "fontDataURL": "bitmap/bold_26px.xml"
+      }
+    ]
+  }
+}
