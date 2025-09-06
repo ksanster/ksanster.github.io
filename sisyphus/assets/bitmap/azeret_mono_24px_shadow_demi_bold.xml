@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='24' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='Azeret Mono'/>
+       <common scaleW='192' packed='0' pages='1' lineHeight='44' scaleH='128' base='39'/>
+       <pages>
+            <page id='0' file='azeret_mono_24px_shadow_demi_bold.png'/>
+       </pages>
+        <chars count='12'>
+            <char xadvance='16' x='106' chnl='0' yoffset='22' y='40' xoffset='-9' id='32' page='0' height='0' width='0'/>
+            <char xadvance='16' x='72' chnl='0' yoffset='4' y='40' xoffset='-7' id='48' page='0' height='36' width='32'/>
+            <char xadvance='16' x='140' chnl='0' yoffset='4' y='2' xoffset='-7' id='49' page='0' height='36' width='32'/>
+            <char xadvance='16' x='106' chnl='0' yoffset='4' y='2' xoffset='-7' id='50' page='0' height='36' width='32'/>
+            <char xadvance='16' x='72' chnl='0' yoffset='4' y='2' xoffset='-7' id='51' page='0' height='36' width='32'/>
+            <char xadvance='16' x='2' chnl='0' yoffset='4' y='2' xoffset='-8' id='52' page='0' height='36' width='34'/>
+            <char xadvance='16' x='38' chnl='0' yoffset='4' y='78' xoffset='-7' id='53' page='0' height='36' width='32'/>
+            <char xadvance='16' x='38' chnl='0' yoffset='4' y='40' xoffset='-7' id='54' page='0' height='36' width='32'/>
+            <char xadvance='16' x='38' chnl='0' yoffset='4' y='2' xoffset='-7' id='55' page='0' height='36' width='32'/>
+            <char xadvance='16' x='2' chnl='0' yoffset='4' y='78' xoffset='-7' id='56' page='0' height='36' width='32'/>
+            <char xadvance='16' x='2' chnl='0' yoffset='4' y='40' xoffset='-7' id='57' page='0' height='36' width='32'/>
+            <char xadvance='8' x='72' chnl='0' yoffset='8' y='78' xoffset='-7' id='58' page='0' height='32' width='22'/>
+       </chars>
+   </font>

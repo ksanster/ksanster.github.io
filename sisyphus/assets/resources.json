@@ -1,0 +1,65 @@
+{
+  "main": {
+    "path": "assets",
+    "files": [
+      {
+        "type": "atlas",
+        "key": "sisyphus",
+        "textureURL": "atlases/sisyphus.png",
+        "atlasURL": "atlases/sisyphus_atlas.json"
+      },
+      {
+        "type": "image",
+        "key": "mountain",
+        "url": "images/mountain.png"
+      },
+      {
+        "type": "image",
+        "key": "snow",
+        "url": "images/snow.png"
+      },
+      {
+        "type": "image",
+        "key": "stone",
+        "url": "images/stone.png"
+      },
+      {
+        "type": "image",
+        "key": "inner_shadow",
+        "url": "images/inner_shadow.png"
+      },
+      {
+        "type": "image",
+        "key": "shadow",
+        "url": "images/shadow.png"
+      },
+      {
+        "type": "image",
+        "key": "aura",
+        "url": "images/aura.png"
+      },
+      {
+        "type": "image",
+        "key": "trail",
+        "url": "images/trail.png"
+      },
+      {
+        "type": "obj",
+        "key": "snowball",
+        "url": "models/snowball.obj"
+      },
+      {
+        "type": "bitmapFont",
+        "key": "demi_bold_24px",
+        "textureURL": "bitmap/demi_bold_24px_shadow.png",
+        "fontDataURL": "bitmap/demi_bold_24px_shadow.xml"
+      },
+      {
+        "type": "bitmapFont",
+        "key": "bold_26px",
+        "textureURL": "bitmap/bold_26px.png",
+        "fontDataURL": "bitmap/bold_26px.xml"
+      }
+    ]
+  }
+}
