@@ -15,33 +15,13 @@
       },
       {
         "type": "image",
-        "key": "snow",
-        "url": "images/snow.png"
-      },
-      {
-        "type": "image",
         "key": "stone",
         "url": "images/stone.png"
       },
       {
         "type": "image",
-        "key": "inner_shadow",
-        "url": "images/inner_shadow.png"
-      },
-      {
-        "type": "image",
         "key": "shadow",
         "url": "images/shadow.png"
-      },
-      {
-        "type": "image",
-        "key": "aura",
-        "url": "images/aura.png"
-      },
-      {
-        "type": "image",
-        "key": "trail",
-        "url": "images/trail.png"
       },
       {
         "type": "obj",
