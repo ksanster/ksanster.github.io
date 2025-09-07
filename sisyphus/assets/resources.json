@@ -9,6 +9,15 @@
         "atlasURL": "atlases/sisyphus_atlas.json"
       },
       {
+        "type": "spritesheet",
+        "key": "brawler",
+        "url": "images/brawler48x48.png",
+        "frameConfig": {
+          "frameWidth": 48,
+          "frameHeight": 48
+        }
+      },
+      {
         "type": "image",
         "key": "mountain",
         "url": "images/mountain.png"
