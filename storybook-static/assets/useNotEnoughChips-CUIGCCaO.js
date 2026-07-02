@@ -1,1 +1,0 @@
-import{h as o}from"./effect-fade-element-Dkwm1YZ3.js";const p=o(n=>({isOpen:!1,smallBlind:0,bigBlind:0,minBuyIn:0,openNotEnoughChips:({minBuyIn:i,bigBlind:s,smallBlind:l})=>n({isOpen:!0,minBuyIn:i,bigBlind:s,smallBlind:l}),closeNotEnoughChips:()=>n({isOpen:!1}),clear:()=>n({smallBlind:0,bigBlind:0,minBuyIn:0})}));export{p as u};
